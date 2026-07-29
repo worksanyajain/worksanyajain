@@ -1,144 +1,108 @@
-<h1 align="center">
-  Hi 👋, I'm Sanya Jain
-</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Web Developer | B.Tech AI & ML Student | Python Full Stack Learner
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sanya Jain
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;B.Tech+AI+%26+ML+Student;Python+Full+Stack+Developer;Learning+React+%26+Next.js;Always+Learning+New+Things" />
-</p>
+### Frontend Developer | B.Tech AI & ML
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=worksanyajain&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/worksanyajain?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/worksanyajain?affiliations=OWNER&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Student;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=worksanyajain&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech (Artificial Intelligence & Machine Learning)
+<img align="right" width="340" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-💻 Passionate Frontend Web Developer
+🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
 
-🌱 Currently Learning
+💻 Passionate about building **responsive**, **interactive**, and **modern** web applications.
+
+🌱 Currently learning
 
 - React.js
-- Next.js
-- TypeScript
-- Python Full Stack
-- REST APIs
+- JavaScript
+- AI & Machine Learning
+- Full Stack Development
 
 🚀 Interested in
 
 - Frontend Development
-- Full Stack Development
-- Artificial Intelligence
 - UI/UX Design
+- AI-powered Applications
+- Modern Web Technologies
 
-📫 Email
+⚡ Fun Fact
 
-```text
-sanyajain411@gmail.com
-```
+> I enjoy turning ideas into beautiful user experiences.
+
+<br>
 
 ---
 
-# 🚀 Tech Stack
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/worksanyajain/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:work.sanyajain@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/worksanyajain">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-### Database
+### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
 
 ---
 
-# 💼 Internship
-
-## Python Full Stack Development Intern
-
-**Eduskills (AICTE Virtual Internship)**
-
-✔ Developed Python-based web applications
-
-✔ Worked with REST APIs
-
-✔ Integrated frontend with backend
-
-✔ Database Connectivity
-
-✔ Deployment Workflow
-
----
-
-# 📜 Certifications
-
-🏅 AWS Foundations of Prompt Engineering
-
-🏅 Full Stack Web Journey – Softpro India
-
----
-
-# 🚀 Featured Project
-
-## 🏋️ Gym Website
-
-Responsive Gym Website with modern UI.
-
-### Features
-
-- BMI Calculator
-- Membership Plans
-- Workout Schedule
-- Trainer Profiles
-- Responsive Design
-- Interactive Interface
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=worksanyajain&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=worksanyajain&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -148,7 +112,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=worksanyajain&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=worksanyajain&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
@@ -158,80 +122,38 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=worksanyajain&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=worksanyajain&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌟 Achievements
+# 🚀 Currently Working On
 
-🏆 94.4% in Higher Secondary (CBSE)
+🔹 Frontend Projects
 
-🏆 82.2% in Senior Secondary
+🔹 React Applications
 
-🏆 Class Representative (Class 1–12)
+🔹 AI & ML Learning
 
-🏆 Consistent Academic Performance
-
----
-
-# 🤝 Soft Skills
-
-- Leadership
-- Communication
-- Problem Solving
-- Team Collaboration
-- Adaptability
-- Negotiation
+🔹 Improving DSA & Problem Solving
 
 ---
 
-# 🎯 Current Goals
+# ✨ Quote
 
-✅ Master React
+<div align="center">
 
-✅ Learn Next.js
+### *"Code with passion. Learn with curiosity. Build with purpose."*
 
-✅ Build Full Stack Projects
-
-✅ Contribute to Open Source
-
-✅ Explore AI & Machine Learning
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
+### ⭐ Thanks for visiting my profile!
 
-<a href="https://github.com/worksanyajain">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+If you like my work, consider following me and starring my repositories.
 
-<!-- Replace with your LinkedIn URL -->
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sanyajain411@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Success is built one commit at a time."
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</p>
+</div>
