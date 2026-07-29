@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066ff&height=220&section=header&text=Sanya%20Jain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20B.Tech%20AI%20%26%20ML&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:2563EB&height=230&section=header&text=Sanya%20Jain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20B.Tech%20AI%20%26%20ML&descAlignY=60&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sanya+Jain;Frontend+Developer;Artificial+Intelligence+%26+Machine+Learning+Student;Building+Modern+Responsive+Web+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanya+Jain;Frontend+Developer;Artificial+Intelligence+%26+Machine+Learning+Student;Building+Modern+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=worksanyajain&label=Profile+Views&color=0066ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/worksanyajain?logo=github&style=for-the-badge&color=0066ff"/>
-<img src="https://img.shields.io/github/stars/worksanyajain?logo=github&style=for-the-badge&color=0066ff"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=worksanyajain&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/worksanyajain?logo=github&style=for-the-badge&color=2563EB"/>
+
+<img src="https://img.shields.io/github/stars/worksanyajain?style=for-the-badge&logo=github&color=2563EB"/>
 
 </div>
 
@@ -16,33 +18,35 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" width="340" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif"/>
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+🎓 **B.Tech Student in Artificial Intelligence & Machine Learning**
 
-💙 Passionate about creating **beautiful**, **responsive**, and **user-friendly** web applications.
+💻 Passionate about creating modern, responsive and user-friendly web applications.
 
-🚀 Constantly exploring new technologies and building projects that solve real-world problems.
+🚀 I enjoy building beautiful UI and learning new technologies.
 
 ### 🌱 Currently Learning
 
 - React.js
-- JavaScript (ES6+)
+- JavaScript
 - Tailwind CSS
 - Full Stack Development
-- AI & Machine Learning
+- Artificial Intelligence
 
-### 👨‍💻 Interests
+### 💙 Interests
 
 - Frontend Development
 - UI/UX
-- Artificial Intelligence
+- AI Applications
 - Open Source
-- Web Performance
+- Responsive Design
 
 ### ⚡ Fun Fact
 
-> "Every great developer you know was once a beginner."
+> Every expert was once a beginner.
+
+<br clear="right"/>
 
 ---
 
@@ -98,13 +102,13 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -124,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=worksanyajain&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=worksanyajain&theme=algolia&no-frame=true&column=4"/>
 
 </div>
 
@@ -144,30 +148,30 @@
 
 ```text
 💻 Frontend Development
-🌐 Responsive Web Design
 ⚛️ React.js
+🎨 UI/UX Design
 🤖 Artificial Intelligence
 📚 Data Structures & Algorithms
-🚀 Open Source Contributions
+🌍 Open Source
 ```
 
 ---
 
-# 📌 Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,python,java,git,github,vscode"/>
-
-</p>
-
----
-
-# 💭 Developer Quote
+# ⚡ Technologies
 
 <div align="center">
 
-### ✨ "Code is like art — every line should have a purpose."
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,python,java,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
 
 </div>
 
@@ -175,10 +179,10 @@
 
 <div align="center">
 
-## ⭐ Thank you for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider ⭐ starring my repositories and following me.
+If you like my work, don't forget to ⭐ my repositories and follow me.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B0B0B&height=120&section=footer"/>
 
 </div>
