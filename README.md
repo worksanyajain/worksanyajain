@@ -1,44 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sanya Jain</h1>
+<h1 align="center">
+  Hi 👋, I'm Sanya Jain
+</h1>
 
 <h3 align="center">
-Frontend Web Developer • B.Tech AI & ML Student • Python Full Stack Learner
+Frontend Web Developer | B.Tech AI & ML Student | Python Full Stack Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;B.Tech+AI+%26+ML+Student;Python+Full+Stack+Developer;Building+Modern+Responsive+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;B.Tech+AI+%26+ML+Student;Python+Full+Stack+Developer;Learning+React+%26+Next.js;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/worksanyajain">
-    <img src="https://img.shields.io/github/followers/worksanyajain?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=worksanyajain&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/worksanyajain?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/worksanyajain?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 💫 About Me
 
-🎓 I'm pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Axis Institute of Technology & Management, Kanpur**.
+🎓 B.Tech (Artificial Intelligence & Machine Learning)
 
-💻 I'm a **Frontend Web Developer** passionate about building modern, responsive and user-friendly websites.
+💻 Passionate Frontend Web Developer
 
-🌱 Currently expanding my knowledge in:
+🌱 Currently Learning
 
 - React.js
 - Next.js
-- Python Full Stack Development
+- TypeScript
+- Python Full Stack
 - REST APIs
-- SQL
-- Artificial Intelligence
 
-🚀 I enjoy solving real-world problems through technology and continuously improving my development skills.
+🚀 Interested in
+
+- Frontend Development
+- Full Stack Development
+- Artificial Intelligence
+- UI/UX Design
+
+📫 Email
+
+```text
+sanyajain411@gmail.com
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
@@ -47,7 +58,7 @@ Frontend Web Developer • B.Tech AI & ML Student • Python Full Stack Learner
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Database
@@ -66,22 +77,27 @@ Frontend Web Developer • B.Tech AI & ML Student • Python Full Stack Learner
 
 # 💼 Internship
 
-### Python Full Stack Development Intern
+## Python Full Stack Development Intern
+
 **Eduskills (AICTE Virtual Internship)**
 
-- Developed dynamic web applications using Python.
-- Worked with REST APIs.
-- Integrated frontend and backend.
-- Learned database connectivity and deployment workflow.
-- Worked with HTML, CSS, JavaScript, SQL & Python.
+✔ Developed Python-based web applications
+
+✔ Worked with REST APIs
+
+✔ Integrated frontend with backend
+
+✔ Database Connectivity
+
+✔ Deployment Workflow
 
 ---
 
 # 📜 Certifications
 
-✅ Full Stack Web Journey — Softpro India
+🏅 AWS Foundations of Prompt Engineering
 
-✅ AWS Foundations of Prompt Engineering
+🏅 Full Stack Web Journey – Softpro India
 
 ---
 
@@ -89,26 +105,30 @@ Frontend Web Developer • B.Tech AI & ML Student • Python Full Stack Learner
 
 ## 🏋️ Gym Website
 
-A responsive gym website built using HTML, CSS and JavaScript.
+Responsive Gym Website with modern UI.
 
 ### Features
 
-- Responsive Design
 - BMI Calculator
 - Membership Plans
-- Trainer Profiles
 - Workout Schedule
-- Modern UI
+- Trainer Profiles
+- Responsive Design
+- Interactive Interface
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=worksanyajain&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worksanyajain&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -118,7 +138,27 @@ A responsive gym website built using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=worksanyajain&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=worksanyajain&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=worksanyajain&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=worksanyajain&theme=tokyo-night"/>
 
 </p>
 
@@ -126,21 +166,38 @@ A responsive gym website built using HTML, CSS and JavaScript.
 
 # 🌟 Achievements
 
-- 🎓 94.4% in Higher Secondary (CBSE)
-- 🎓 82.2% in Senior Secondary
-- 📚 Consistent Academic Performance
-- 👩‍🏫 Served as **Class Representative** from Class 1–12
+🏆 94.4% in Higher Secondary (CBSE)
+
+🏆 82.2% in Senior Secondary
+
+🏆 Class Representative (Class 1–12)
+
+🏆 Consistent Academic Performance
 
 ---
 
 # 🤝 Soft Skills
 
-- Communication
 - Leadership
+- Communication
 - Problem Solving
 - Team Collaboration
 - Adaptability
 - Negotiation
+
+---
+
+# 🎯 Current Goals
+
+✅ Master React
+
+✅ Learn Next.js
+
+✅ Build Full Stack Projects
+
+✅ Contribute to Open Source
+
+✅ Explore AI & Machine Learning
 
 ---
 
@@ -149,28 +206,32 @@ A responsive gym website built using HTML, CSS and JavaScript.
 <p align="left">
 
 <a href="https://github.com/worksanyajain">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:sanyajain411@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<!-- Add your LinkedIn URL below -->
-<!--
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
--->
 
 </p>
 
 ---
 
+# 💡 Quote
+
+> "Success is built one commit at a time."
+
+---
+
 <p align="center">
 
-### 💡 "Building clean, responsive and impactful web experiences while exploring the future of AI."
+⭐ Thanks for visiting my profile! ⭐
 
-⭐ Thanks for visiting my profile!
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
